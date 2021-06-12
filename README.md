@@ -28,6 +28,13 @@ bash install.sh
 hack
 ```
 
+##### Update...
+```
+cd Update
+
+./update
+```
+
 ###### Uninstalling
 ```
 ./uninstall.sh
